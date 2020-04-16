@@ -1,1 +1,0 @@
-/home/shravan/Documents/repos/gallery/exploring-languages/rust/hello-world-cargo/target/debug/hello-world-cargo: /home/shravan/Documents/repos/gallery/exploring-languages/rust/hello-world-cargo/src/main.rs
